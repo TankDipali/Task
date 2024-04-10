@@ -1,0 +1,57 @@
+System Report - Tue 09 Apr 2024 03:12:56 PM IST
+
+System Usage:
+-------------
+CPU Usage: 10.7%
+Memory Usage: 44.71%
+
+Top Processes:
+-------------
+    PID    PPID CMD                         %MEM %CPU
+  26286    9527 /opt/google/chrome/chrome -  2.8 32.0
+   5052    4754 /snap/teams-for-linux/539/t  4.9 11.8
+   9507    3572 /opt/google/chrome/chrome    4.4  7.7
+   3757    3572 /usr/bin/gnome-shell         2.1  6.0
+  18775   18357 /usr/share/code/code --type  1.5  5.0
+
+Disk Space Usage:
+----------------
+Filesystem      Size  Used Avail Use% Mounted on
+udev            7.7G     0  7.7G   0% /dev
+tmpfs           1.6G  2.4M  1.6G   1% /run
+/dev/nvme0n1p1   94G   35G   54G  40% /
+tmpfs           7.7G  636M  7.1G   9% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           7.7G     0  7.7G   0% /sys/fs/cgroup
+/dev/loop0      128K  128K     0 100% /snap/bare/5
+/dev/loop1       56M   56M     0 100% /snap/core18/2812
+/dev/loop2       75M   75M     0 100% /snap/core22/1122
+/dev/loop3      165M  165M     0 100% /snap/gnome-3-28-1804/198
+/dev/loop4       64M   64M     0 100% /snap/core20/2182
+/dev/loop5      131M  131M     0 100% /snap/docker/2915
+/dev/loop6       75M   75M     0 100% /snap/core22/1033
+/dev/loop7       92M   92M     0 100% /snap/gtk-common-themes/1535
+/dev/loop15      13M   13M     0 100% /snap/snap-store/1113
+/dev/loop11      66M   66M     0 100% /snap/gtk-common-themes/1519
+/dev/loop9      249M  249M     0 100% /snap/gnome-3-38-2004/99
+/dev/loop16      40M   40M     0 100% /snap/snapd/21184
+/dev/loop18      84M   84M     0 100% /snap/outlook-for-linux/18
+/dev/loop17     505M  505M     0 100% /snap/gnome-42-2204/172
+/dev/loop14      86M   86M     0 100% /snap/teams-for-linux/537
+/dev/loop12      13M   13M     0 100% /snap/snap-store/959
+/dev/loop19     350M  350M     0 100% /snap/gnome-3-38-2004/143
+/dev/loop8       64M   64M     0 100% /snap/core20/2105
+/dev/loop10      86M   86M     0 100% /snap/teams-for-linux/539
+/dev/loop13      41M   41M     0 100% /snap/snapd/20671
+/dev/loop20     497M  497M     0 100% /snap/gnome-42-2204/141
+/dev/nvme0n1p3  976M   44M  932M   5% /boot/efi
+/dev/nvme0n1p4  359G  117G  225G  35% /home
+tmpfs           1.6G   68K  1.6G   1% /run/user/1000
+
+Network Activity:
+-----------------
+TIME_WAIT 7
+SYN_SENT 1
+CLOSE_WAIT 6
+LISTEN 8
+ESTABLISHED 38
